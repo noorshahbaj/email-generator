@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Noorshahbaj\EmailGenerator\Tests;
 
 use PHPUnit\Framework\TestCase;
 
