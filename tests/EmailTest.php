@@ -2,8 +2,8 @@
 
 namespace Noorshahbaj\EmailGenerator\Tests;
 
-use PHPUnit\Framework\TestCase;
 use Noorshahbaj\EmailGenerator\Email;
+use PHPUnit\Framework\TestCase;
 
 class EmailTest extends TestCase
 {
