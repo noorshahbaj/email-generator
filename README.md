@@ -21,6 +21,7 @@ use Noorshahbaj\EmailGenerator\Email;
 
 
 echo Email::generate();
+echo Email::generate('shahbaj.com'); //domain  name
 ```
 
 ## Testing
